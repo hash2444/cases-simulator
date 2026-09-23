@@ -1,8 +1,14 @@
+<div align="center">
+
 # Cases Simulator
 
-> Case opening in Minecraft: keys, cases in three tiers, and a roll for loot.
+**Case opening in Minecraft: keys, cases in three tiers, and a roll for loot.**
 
 [![Download](https://img.shields.io/badge/Download-latest%20build-e94560?style=for-the-badge&logo=github&logoColor=white)](../../releases/latest)
+
+</div>
+
+---
 
 Right-click a **case** while you carry a **Case Key** and roll for a reward. There are silver, gold and diamond cases; the better the case, the better the odds for rare and legendary loot - a legendary pull is announced in chat as a jackpot.
 
@@ -34,8 +40,11 @@ Every pack of mine carries a small easter egg: craft the **Dev Book** with **9 l
 - Case and key artwork is inspired by Counter-Strike. Not affiliated with or endorsed by Valve; Counter-Strike is a trademark of Valve Corporation. If the rights holder objects, it will be taken down.
 - Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
 
-![preview](cases-simulator.png)
+<div align="center">
 
+<img src="cases-simulator.png" alt="Cases Simulator" width="760">
+
+</div>
 ---
 
 Made by **dev:#2444** - [github.com/hash2444](https://github.com/hash2444) - [cases-simulator](https://github.com/hash2444/cases-simulator)
